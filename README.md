@@ -25,3 +25,6 @@ The test-api.http file can be used to test the all the request types.
 Not sure if this might have messed up the gihub/workflow. But time was running out so could not try further troubleshooting.
 ![Error](Error.png)
 ![CLI](CLI.png)
+
+### Web app deployed
+![abc](CLI_final.png)
