@@ -27,4 +27,4 @@ Not sure if this might have messed up the gihub/workflow. But time was running o
 ![CLI](CLI.png)
 
 ### Web app deployed
-![abc](CLI_final.png)
+![final](CLI-final.png)
