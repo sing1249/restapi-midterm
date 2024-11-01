@@ -1,1 +1,2 @@
-gunicorn -w 4 -b 0.0.0.0:8000 app:app
+gunicorn -w 4 -b 0.0.0.0:8000 app:app 
+#This file was created as troubleshooting since app service was stuck at one step. 
