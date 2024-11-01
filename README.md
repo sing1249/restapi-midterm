@@ -19,3 +19,9 @@ pip install -r requirements.txt
 After the dependencies are installed, we can used the command python3 app.py to run the service. 
 
 The test-api.http file can be used to test the all the request types. 
+
+
+### As shown you in class, the web app was taking forever to deploy. Attaching the screenshot of error. I tried deploying it through CLI and it looked like it worked. 
+Not sure if this might have messed up the gihub/workflow. But time was running out so could not try further troubleshooting.
+![Error](Error.png)
+![CLI](CLI.png)
